@@ -1,0 +1,25 @@
+{
+  "User": [
+    {
+      "name": "Akhilesh",
+      "skill": "ReactJS",
+      "pass": "1234568789797",
+      "email": "akhilesh123@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "John Peter",
+      "skill": "ReactJS",
+      "pass": "john@1234",
+      "email": "john@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Sandhyarani",
+      "email": "sandhyarani@gmail.com",
+      "pass": "36452376432746",
+      "skill": "Modern JS",
+      "id": 4
+    }
+  ]
+}
